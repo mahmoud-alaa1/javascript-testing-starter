@@ -1,4 +1,3 @@
-const x = 23;
 // Exercise: Writing good assertions
 export function getCoupons() {
   return [
